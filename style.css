@@ -28,6 +28,9 @@ body {
   border-radius: 20px;
   overflow: hidden;
 }
+.hero img{
+  width:100%;
+}
 
 .text-content {
   padding: 12px;
@@ -35,7 +38,7 @@ body {
 }
 
 .title {
-  colour: hsl(223, 47%, 23%);
+  color: hsl(223, 47%, 23%);
   font-weight: 900;
   font-size: 32px;
   margin-bottom: 20px;
